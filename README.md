@@ -4,7 +4,7 @@
 
 * 📖 Pursuing my Bachelor's in Computer Science from [SNJB’S Late Sau K.B.J College of Engineering,Chandwad.]
 
-* 🎓 Currently I am in Second Year of Engineering.
+* 🎓 Currently I am in Third Year of Engineering.
 
 * 🧑🏻‍💻 Tech enthusiast, designer & an passionate learner.
 
