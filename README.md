@@ -2,15 +2,11 @@
 
 <a href="https://sudarshanpendhari.github.io/"><img src="/src/profile_banner.gif"></a>
 
-* 📖 Pursuing my Bachelor's in Computer Science from [SNJB’S Late Sau K.B.J College of Engineering,Chandwad.]
-
-* 🎓 Currently I am in Final Year of Engineering.
+* 📖 Computer Engineer by profession and passion
 
 * 🧑🏻‍💻 Tech enthusiast, designer & an passionate learner.
 
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
-
-* 💻 Currently learning Data Structures and Algorithms.
+* 💡 Always open to collaborating on projects and innovative/disruptive ideas.
 	
 
 When I am not coding, you'll find me reading books in the library or at my desk doing some stuff. Find out more about me & feel free to connect with me here:
